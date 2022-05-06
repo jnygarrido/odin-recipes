@@ -1,1 +1,2 @@
 # odin-recipes
+My current project is to create a basic webpage, featuring links and images, using the html learned through the HTML section of Odin's Foundations course. Doing so will demonstrate an understanding of the basics of HMTL, including the ability to create basic boilerplate and to structure a website's pages and images appropriately.
